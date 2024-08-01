@@ -1,2 +1,4 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+This repository is for practicing the GitHub Flow. It was by trial and error that I now suspect that only by having a Readme file that I will be able to add a branch.
+
+
